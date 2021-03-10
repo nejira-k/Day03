@@ -1,11 +1,8 @@
 function main() {
 
-    var x;
-    x = 10;
-    var y;
-    y = x;
+    var x = 8;
 
-    return [x, y];
+    return x;
 
 }
 
